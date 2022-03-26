@@ -5,12 +5,11 @@ Acknowledgments
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. 
 
 I have used the following supervised machine learning algorithms on the datasets
-1. Linear Regression - using Gradient Descent and Normal equation
-2. Lasso Rgression
-3. Ridge regression
+1. Linear Regression - using Gradient Descent
+2. Lasso Regression
+3. Ridge Reegression
 4. Support Vector Regressor
 5. KNN Regressor
-6. Polynomial regression
 
 All of these have been done using Python programming language and Scikit package
 
